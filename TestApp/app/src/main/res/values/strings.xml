@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="button_retry">Retry</string>
+    <string name="label_error">Error</string>
+    <string name="search">Search</string>
+    <string name="humidity_header">Humidity</string>
+    <string name="wind">Wind</string>
+</resources>
